@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Rafael Matsumoto</h1>
-<h3 align="center">Software Developer from Brazil</h3>
+<h3 align="center">Software Developer based in Joinville-SC, Brazil</h3>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **AWS** and **Apache Kafka**
 
 - 📝 I regulary write articles on [rafaelmatsumoto.dev](rafaelmatsumoto.dev)
 
