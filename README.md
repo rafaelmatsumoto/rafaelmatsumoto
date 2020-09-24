@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AWS** and **Apache Kafka**
 
-- 📝 I regulary write articles on [rafaelmatsumoto.dev](rafaelmatsumoto.dev)
+- 📝 I regulary write articles on [rafaelmatsumoto.com](rafaelmatsumoto.com)
 
 - 💬 Ask me about **Cloud Computing**, **Data Engineering** and **Software Engineering**
 
