@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Rafael Matsumoto</h1>
-<h3 align="center">Software Engineer @MessageBird</h3>
+<h3 align="center">Software Engineer @Bird</h3>
 
 - 📄 I'm a programmer who's passionate about anything software engineering related 💻
 - 🤝 I'm open to contribute to Lua open source projects.
